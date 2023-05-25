@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(/Assets/background1.jpg);
+    background-position: 50% 30%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+.section{
+    margin: auto;
+    width: 60%;
+}
+
+.h1-div {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 2.5rem;
+    line-height: 1.1;
+    margin-top: 7%;
+    margin-bottom: 3%;
+}
+
+.lorem {
+    color: #5f5d68;
+    margin-bottom: 40px;
+}
+
+.fa-star {
+    color: #fedb01;
+}
+
+.text {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 1.125rem;
+    line-height: 1.5;
+    color: #5f5d68;
+}
+
+.line {
+    margin-bottom: 8px;
+}
+
